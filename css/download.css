@@ -16,6 +16,10 @@
     font-size: 150%;
     margin-top: 3%;
 }
+.divImageHelp div{
+    color: white;
+    text-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red;
+}
 .iframeHelp{
     margin: auto;
     display: block;
